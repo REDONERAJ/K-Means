@@ -67,5 +67,10 @@ pandas
 numpy
 joblib
 
+---
+## 📷 Screenshot
+<img width="1366" height="647" alt="Screenshot 2025-08-12 005153" src="https://github.com/user-attachments/assets/a411fe28-25ed-443b-ab08-a4d8b6f736c5" />
+<img width="1366" height="625" alt="Screenshot 2025-08-12 005215" src="https://github.com/user-attachments/assets/0e2748c6-7306-444a-b4e3-42dff08f4af7" />
+<img width="1366" height="614" alt="Screenshot 2025-08-12 005224" src="https://github.com/user-attachments/assets/60532715-311d-4e36-a942-26be97116ae4" />
 
 ---
